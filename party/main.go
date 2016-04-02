@@ -40,6 +40,7 @@ func main() {
 			if authorized {
 				c.Next()
 			} else {
+			    // to many parameters compile error on c.SendStatus fix by @p4tin
 				c.SendStatus(401, c.Request.URL.Path+" is not authorized for you")
 			}
 
