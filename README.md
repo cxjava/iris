@@ -1,3 +1,3 @@
-## Iris Web Framework - Examples
+## [Iris Web Framework - Examples](https://github.com/iris-contrib/examples)
 
-This branch contains all examples and how-to-use Iris web framework, each example has it's own folder here.
+This branch has been MOVED TO https://github.com/iris-contrib/examples
